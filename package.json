@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rugbeo/virtualstable/issues"
   },
-  "homepage": "https://github.com/Rugbeo/virtualstable#readme"
+  "homepage": "https://github.com/Rugbeo/virtualstable#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
