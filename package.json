@@ -1,0 +1,19 @@
+{
+  "name": "virtualstable",
+  "version": "1.0.0",
+  "description": "A web application built to assist stable owners and thier boarders.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rugbeo/virtualstable.git"
+  },
+  "author": "Nico Bressler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rugbeo/virtualstable/issues"
+  },
+  "homepage": "https://github.com/Rugbeo/virtualstable#readme"
+}
