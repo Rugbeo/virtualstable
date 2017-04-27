@@ -1,22 +1,17 @@
 {
   "name": "virtualstable",
-  "version": "1.0.0",
-  "description": "A web application designed to help stable owners and boarders",
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rugbeo/virtualstable.git"
-  },
-  "author": "Nico Bressler",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Rugbeo/virtualstable/issues"
-  },
-  "homepage": "https://github.com/Rugbeo/virtualstable#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
   }
 }
